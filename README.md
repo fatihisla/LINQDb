@@ -15,9 +15,9 @@ Passi necessari  a creare un programma LINQDb:
 
 ![image](https://github.com/fatihisla/LINQDb/assets/116791165/2400eda9-e655-4748-8a28-a343843edc86)
 
-*Poi divertirsi nella creazione del programma.
+* Poi divertirsi nella creazione del programma.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-####      * Programma C#:
+####  ** Programma C#:
 Il progamma creato dovrebbe venire qualcosa del genere:
 //connessione a db
 ####
